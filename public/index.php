@@ -7,4 +7,6 @@ echo $app_name;
 
 $prueba = "Hola desde myRepo";
 echo $prueba;
+$Daniel="Daniel";
+echo $Daniel;
 ?>
